@@ -1,0 +1,43 @@
+{
+  "name": "paramvir",
+  "description": "Paramvir Singh Portfolio",
+  "version": "1.0.0",
+  "author": "Paramvir Singh <http://Paramvir109.github.io>",
+  "keywords": [
+    "gatsby",
+    "gatsby paramvir",
+    "paramvir portfolio"
+  ],
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gatsby": "^2.0.33",
+    "gatsby-image": "^2.0.25",
+    "gatsby-plugin-google-analytics": "^2.0.8",
+    "gatsby-plugin-manifest": "^2.0.12",
+    "gatsby-plugin-offline": "^2.0.19",
+    "gatsby-plugin-react-helmet": "^3.0.5",
+    "gatsby-plugin-robots-txt": "^1.3.0",
+    "gatsby-plugin-sharp": "^2.0.15",
+    "gatsby-plugin-sitemap": "^2.0.3",
+    "gatsby-source-filesystem": "^2.0.12",
+    "gatsby-transformer-json": "^2.1.6",
+    "gatsby-transformer-sharp": "^2.1.9",
+    "path": "^0.12.7",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-helmet": "^5.2.0"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.1.3",
+    "gatsby-plugin-purgecss": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Paramvir109/Paramvir109.github.io"
+  }
+}
