@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.mojaave.com/sitemap.xml
+Host: https://www.mojaave.com
