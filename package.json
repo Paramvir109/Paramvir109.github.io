@@ -12,7 +12,9 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-deploy": "gatsby build && npm run deploy",
+    "deploy": "node deploy.js"
   },
   "dependencies": {
     "gatsby": "^2.0.33",
@@ -27,6 +29,7 @@
     "gatsby-source-filesystem": "^2.0.12",
     "gatsby-transformer-json": "^2.1.6",
     "gatsby-transformer-sharp": "^2.1.9",
+    "gh-pages": "^2.0.1",
     "path": "^0.12.7",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
