@@ -29,19 +29,23 @@ export default () => {
       meta={[
         { name: "description", content: siteDescription },
         { property: "og:url", content: siteUrl },
-        { property: "og:image", content: "https://www.mojaave.com" + ogImage },
+        { property: "og:image", content: "https://paramvir109.github.io/" + ogImage },
         { property: "og:title", content: siteTitle },
         { property: "og:type", content: "website" },
         { property: "og:description", content: siteDescription }
       ]}
+
       link={[
         { rel: "icon", type: "image/png", sizes: "16x16", href: favicon16 },
         { rel: "icon", type: "image/png", sizes: "32x32", href: favicon32 },
-        { rel: "canonical", href: "https://www.mojaave.com" },
+        { rel: "canonical", href: "https://paramvir109.github.io/" },
       ]}
-      />
+
+      >
+      <html lang="en" />
+      </Helmet>
       <h1 hidden>
-        full stack developer, freelancer in usa, font end developer in usa, full stack developer in usa, javascript developer, software engineer, web developer, react developer, reactjs developer, node developer, nodejs developer, graphql developer, angular developer, typescript developer, front end developer.
+        full stack developer, javascript developer, software engineer, web developer, react developer, reactjs developer, node developer, nodejs developer, graphql developer, front end developer.
         {siteDescription}
       </h1>
       <div className="container-fluid">

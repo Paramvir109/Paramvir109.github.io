@@ -2,25 +2,25 @@
     {
         "name":"My-Quora",
         "description": "A quora-like platform where users can ask and answer questions. Built using Socket.io on Node.js, users require signing up and login with token based authentication. MongoDB is used as a database service for storing all the user info and info related to their questions etc. Users have option to remove their questions. It's mobile responsive as well.",
-        "image": "images/quora.png",
+        "image": "images/quora.jpg",
         "link": "https://https://node-quora.herokuapp.com"
     },
     {
         "name":"Chat Room",
         "description": "A chat room for you and your friends to chat and make plans together. Each user require a username and a unique chatroom name which must be shareable among his friends for them to chat together. Built using real-time websockets connection and frontend is basic HTML/CSS. You can also share your live location which is implemented using javascript's geolocation object.",
-        "image": "images/chat.png",
+        "image": "images/chat.jpg",
         "link": "https://node-chatroom-app.herokuapp.com"
     },
     {
         "name":"Hangman & Quiz",
         "description": "A website built using jQuery(For DOM manipulation), HTML, CSS and Javascript wherr you can play any of the two games :- Hangman and MCQ based Quiz game. Hangman consists of 4 levels of word guessing whereas Quiz consists of 5 questions randomly selected from json file containing 10 question. Animations are properly handled using jQuery. Have fun and keep your mind relaxed while playing these games.",
-        "image": "images/game.png",
+        "image": "images/game.jpg",
         "link": "https://thairpysalonandspa.com"
     },
     {
         "name":"Expensify",
         "description": "A web app built on React to manage your daily expenses. Firebase is used for database service and every user logins through google authentication. User has ability to add, delete, edit their expenses. Ability to sort the expenses on the basis of their date or amount. You can select expenses by their name and also list all the expenses lying in a particular date range",
-        "image": "images/expensify.png",
+        "image": "images/expensify.jpg",
         "link": "https://expensify-react-app2.herokuapp.com/"
     }
     

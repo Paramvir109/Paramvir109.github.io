@@ -12,7 +12,7 @@ function Contact() {
                     <h5 className="display-6 mt-4">
                         <a  style={{marginLeft: "5px"}} title="Github" href="https://github.com/Parmvir109" className="card-link text-black"><i className="fa fa-github" /></a>
                         <a title="Twitter" href="https://twitter.com/_Paramvir_Singh" className="card-link text-black"><i className="fa fa-twitter" /></a>
-                        <a title="Email" href="mailto:mj@mojaave.com" className="card-link text-black"><i className="fa fa-envelope" /></a>
+                        <a title="Email" href="mailto:paramvir109@gmail.com" className="card-link text-black"><i className="fa fa-envelope" /></a>
                         <a title="Linkedin" href="https://www.linkedin.com/in/paramvir109/" className="card-link text-black"><i className="fa fa-linkedin" /></a>
                     </h5>
                 </div>
@@ -23,7 +23,7 @@ function Contact() {
                 </div>
                     <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
                     <input type="hidden" name="bot-field" />
-                    <input id="username" name="emailto" type="hidden" value="mj@mojaave.com"/>
+                    <input id="username" name="emailto" type="hidden" value="paramvir109@gmail.com"/>
                     <div className="form-group">
                         <input type="email" className="form-control" id="txt-email" name="email" aria-describedby="emailHelp" placeholder="Enter email" required />
                     </div>

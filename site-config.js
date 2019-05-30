@@ -2,10 +2,10 @@
 
 module.exports = {
     name:"Paramvir",
-    siteTitle: "Paramvir Singh, Full stack developer, India", // Site title.
-    siteLogo: `${__dirname}/src/static/images/param.jpg`,
-    siteUrl: "https://www.mojaave.com", // Domain of your website without pathPrefix.
-    siteKeyword:"paramvir singh, full stack developer in usa, reactjs developer, Angular, nodejs developer, graphql, jquery, lodash, typescript, software engineer, web developer, front-end developer, responsive web design",
+    siteTitle: "Paramvir Singh, Student|Developer|DTU", // Site title.
+    siteLogo: `${__dirname}/src/static/images/icon-512x512.png`,
+    siteUrl: "https://paramvir109.github.io/", // Domain of your website without pathPrefix.
+    siteKeyword:"paramvir singh, reactjs developer, nodejs developer, graphql, jquery, lodash, typescript, software engineer, web developer, front-end developer, responsive web design",
     siteDescription: "I'm Paramvir SIngh, Full stack developer, I'm a student of Delhi Technological University pursuing Computer Engineering", // Website description used for RSS feeds/meta description tag.
     googleAnalyticsID: "UA-115817837-3", // GA tracking ID.
     userName: "Paramvir Singh", // Username to display in the author segment.
