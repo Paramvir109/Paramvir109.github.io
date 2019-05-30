@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.mojaave.com/sitemap.xml
-Host: https://www.mojaave.com
+Sitemap: https://paramvir109.github.io//sitemap.xml
+Host: https://paramvir109.github.io
