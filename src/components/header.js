@@ -1,5 +1,6 @@
 import React from 'react';
 import {Link} from 'gatsby';
+import resume from '../static/resume.pdf'
 
 function Header() {
     return (
@@ -20,7 +21,7 @@ function Header() {
                         <a className="nav-link" href="#projects">Projects</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="https://google.com">Resume</a>
+                        <a className="nav-link" rel="noopener noreferrer" target="_blank" href={resume}>Resume</a>
                     </li>
                     <li className="nav-item">
                         <a className="nav-link" href="#contact">Contact</a>

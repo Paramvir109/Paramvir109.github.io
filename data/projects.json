@@ -13,15 +13,21 @@
     },
     {
         "name":"Hangman & Quiz",
-        "description": "A website built using jQuery(For DOM manipulation), HTML, CSS and Javascript wherr you can play any of the two games :- Hangman and MCQ based Quiz game. Hangman consists of 4 levels of word guessing whereas Quiz consists of 5 questions randomly selected from json file containing 10 question. Animations are properly handled using jQuery. Have fun and keep your mind relaxed while playing these games.",
+        "description": "A website built using jQuery(For DOM manipulation), HTML, CSS and Javascript where you can play any of the two games :- Hangman and MCQ based Quiz game. Hangman consists of 4 levels of word guessing whereas Quiz consists of 5 questions randomly selected from json file containing 10 question. Animations are properly handled using jQuery. Have fun and keep your mind relaxed while playing these games.",
         "image": "images/game.jpg",
-        "link": "https://thairpysalonandspa.com"
+        "link": "https://hangman-quiz.herokuapp.com/"
     },
     {
         "name":"Expensify",
         "description": "A web app built on React to manage your daily expenses. Firebase is used for database service and every user logins through google authentication. User has ability to add, delete, edit their expenses. Ability to sort the expenses on the basis of their date or amount. You can select expenses by their name and also list all the expenses lying in a particular date range",
         "image": "images/expensify.jpg",
         "link": "https://expensify-react-app2.herokuapp.com/"
+    },
+    {
+        "name":"Whatsapp Automation",
+        "description": "Python script is written in Jupyter Notebook enabling automation for sending messages on whatsapp using Selenium framework and chrome webdriver.",
+        "link": "https://github.com/Paramvir109/Whatsapp-Automation"
     }
+    
     
 ]

@@ -1,13 +1,13 @@
 //const path = require('path');
 
 module.exports = {
-    name:"Paramvir",
-    siteTitle: "Paramvir Singh, Student|Developer|DTU", // Site title.
+    name:"Portfolio",
+    siteTitle: "Paramvir Singh", // Site title.
     siteLogo: `${__dirname}/src/static/images/icon-512x512.png`,
     siteUrl: "https://paramvir109.github.io/", // Domain of your website without pathPrefix.
     siteKeyword:"paramvir singh, reactjs developer, nodejs developer, graphql, jquery, lodash, typescript, software engineer, web developer, front-end developer, responsive web design",
-    siteDescription: "I'm Paramvir SIngh, Full stack developer, I'm a student of Delhi Technological University pursuing Computer Engineering", // Website description used for RSS feeds/meta description tag.
-    googleAnalyticsID: "UA-115817837-3", // GA tracking ID.
+    siteDescription: "I'm Paramvir Singh, Full stack developer, I'm a student of Delhi Technological University pursuing Computer Engineering", // Website description used for RSS feeds/meta description tag.
+    googleAnalyticsID: "UA-141825301-1", // GA tracking ID.
     userName: "Paramvir Singh", // Username to display in the author segment.
     userTwitter: "_Paramvir_Singh", // Optionally renders "Follow Me" in the UserInfo segment.
     userLocation: "New Delhi, India", // User location to display in the author segment.
@@ -15,7 +15,7 @@ module.exports = {
     favicon32:`../static/images/param32.jpg`,
     favicon16:`../static/images/param16.jpg`,
     ogImage: `../static/images/param250.jpg`,
-    userDescription: "I'm Paramvir SIngh, Full stack developer, I'm a student of Delhi Technological University pursuing Computer Engineering",
+    userDescription: "I'm Paramvir Singh, Full stack developer, I'm a student of Delhi Technological University pursuing Computer Engineering",
     userPhone:"+91-8285553420",
     userEmail:"paramvir109@gmail.com",
     skills:[
@@ -95,7 +95,7 @@ module.exports = {
     education:[
         {
             college:"Some College of Engineering 1",
-            degree:"Compouter Science And Engineering",
+            degree:"Computer Science And Engineering",
             startDate:"July 2007",
             endDate: "Jun 2011",
             current: true,
@@ -103,7 +103,7 @@ module.exports = {
         },
         {
             college:"Some College of Engineering 2",
-            degree:"Compouter Science And Engineering",
+            degree:"Computer Science And Engineering",
             startDate:"July 2007",
             endDate: "Jun 2011",
             current: false,
@@ -111,7 +111,7 @@ module.exports = {
         },
         {
             college:"Some College of Engineering 3",
-            degree:"Compouter Science And Engineering",
+            degree:"Computer Science And Engineering",
             startDate:"July 2007",
             endDate: "Jun 2011",
             current: false,
@@ -119,7 +119,7 @@ module.exports = {
         },
         {
             college:"Some College of Engineering 4",
-            degree:"Compouter Science And Engineering",
+            degree:"Computer Science And Engineering",
             startDate:"July 2007",
             endDate: "Jun 2011",
             current: false,
@@ -127,7 +127,7 @@ module.exports = {
         },
         {
             college:"Some College of Engineering 5",
-            degree:"Compouter Science And Engineering",
+            degree:"Computer Science And Engineering",
             startDate:"July 2007",
             endDate: "Jun 2011",
             current: false,
