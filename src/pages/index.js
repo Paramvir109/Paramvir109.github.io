@@ -8,6 +8,7 @@ import Projects from '../components/project';
 import Contact from '../components/contact';
 import About from '../components/about';
 import Banner from '../components/banner';
+import Footer from '../components/footer';
 import "bootstrap/dist/css/bootstrap.css";
 import "./index.css";
 
@@ -55,6 +56,7 @@ export default () => {
         <Projects />
         <hr className="large-hr" />
         <Contact />
+        <Footer />
       </div>
       <h1 hidden>
         software enginer, ui developer, build website, full stack developer, freelancer in india, font end developer in india, full stack developer in india, javascript developer, software engineer, web developer, react developer, reactjs developer, node developer, nodejs developer, graphql developer, angular developer, typescript developer, front end developer.
