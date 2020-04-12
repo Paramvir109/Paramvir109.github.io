@@ -8,7 +8,7 @@ export default () => (
             query profileImage {
                 file(relativePath: { eq: "param-profile.jpg" }){
                     childImageSharp {
-                        sizes(maxWidth: 250, maxHeight: 350) {
+                        sizes(maxWidth: 500, maxHeight: 500) {
                         ...GatsbyImageSharpSizes
                         }
                     }
