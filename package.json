@@ -8,6 +8,7 @@
     "gatsby paramvir",
     "paramvir portfolio"
   ],
+  "engines" : { "node" : ">=0.12" },
   "scripts": {
     "start": "gatsby develop",
     "build": "gatsby build",

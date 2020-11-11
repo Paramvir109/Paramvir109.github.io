@@ -1,5 +1,11 @@
 [
     {
+        "name":"COVID19-Stats",
+        "description": "A single page application which gives information about global and countrywide stats of COVID-19. Build with React.js, Chart.js and deployed using Netlify. Features include Pie charts of Mortality and Recovery rate, line charts showing day wise covid cases anywhere around the world",
+        "image": "images/covid.jpg",
+        "link": "https://covid19-allstats.netlify.app/"
+    },
+    {
         "name":"My-Quora",
         "description": "A quora-like platform where users can ask and answer questions. Built using Socket.io on Node.js, users require signing up and login with token based authentication. MongoDB is used as a database service for storing all the user info and info related to their questions etc. Users have option to remove their questions. It's mobile responsive as well.",
         "image": "images/quora.jpg",
